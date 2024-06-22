@@ -5,5 +5,3 @@
 > The user is asked to input 1 to add, 2 to subtract etc.
 > If they input 1, call the ‘add’ function, input 2 calls the ‘subtract’ function etc. 
 > Output the returned result as part of a sentence.
-
-This is a school project where I made a calculator using a tkinter interface using the Python programming language
